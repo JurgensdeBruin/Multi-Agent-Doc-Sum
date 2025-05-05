@@ -1,7 +1,7 @@
 ## 🛡️ Non-Disclosure Agreement (NDA)
 
 **Effective Date:** 05/05/2025  
-**Repository Name:** https://github.com/JurgensdeBruin/Multi-Agent-Doc-Sum
+**Repository Name:** https://github.com/JurgensdeBruin/Multi-Agent-Doc-Sum]  
 **Owner:** Jurgens de Bruin
 
 This Non-Disclosure Agreement ("Agreement") is entered into by and between the Owner of this GitHub repository ("Owner") and any individual or entity ("Recipient") who accesses, clones, forks, or otherwise interacts with the repository.
